@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "live-server"
+    "start": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -16,9 +16,5 @@
   "bugs": {
     "url": "https://github.com/KaroLLain/TypeScript/issues"
   },
-  "homepage": "https://github.com/KaroLLain/TypeScript#readme",
-  "devDependencies": {
-    "lite-server": "^2.6.1",
-    "live-server": "^1.2.2"
-  }
+  "homepage": "https://github.com/KaroLLain/TypeScript#readme"
 }
