@@ -1,7 +1,6 @@
 {
   "name": "typescript",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/KaroLLain/TypeScript/issues"
   },
-  "homepage": "https://github.com/KaroLLain/TypeScript#readme"
+  "homepage": "https://github.com/KaroLLain/TypeScript#readme",
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }

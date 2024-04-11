@@ -1,2 +1,3 @@
-var userMainName = 'Karo';
+"use strict";
+const userMainName = 'Karo';
 console.log(userMainName);
